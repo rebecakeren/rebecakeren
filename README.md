@@ -5,16 +5,16 @@
 
 <div>
   <a href="https://github.com/rebecakeren">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecakeren&layout-compact&langs_count-16&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&hide=contribs&theme=holi"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecakeren&layout-compact&langs_count-16&theme=holi">
+  
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rebeca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rebeca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rebeca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rebeca-Canva" height="30" width="40" src="">
-  <img align="center" alt="Rebeca-Canva" height="30" width="40" src="">
+  <img align="center" alt="Rebeca-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Rebeca-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
 </div>
 <br>
 <div>
