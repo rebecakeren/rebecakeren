@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/rebecakeren">
-  <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&hide=contribs&theme=holi">
-  <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecakeren&layout-compact&langs_count-16&theme=holi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&hide=contribs&theme=holi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecakeren&layout-compact&langs_count-16&theme=holi">
 </div>
 
 <div style="display: inline_block"><br>
