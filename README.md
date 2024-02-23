@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Rebeca Keren
 
 <br>🌱 Estou estudando Java
-<br>📚 Desenvolvendo as habilidades nas áreas: 💻 Front-End 🎨 Design
+<br>📚 Desenvolvendo as habilidades nas áreas: 🐱‍💻 Front-End e Back-End 🎨 Design 
 
 <div>
   <a href="https://github.com/rebecakeren">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&hide=contribs&theme=holi">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rebecakeren&show_icons=true&theme=holi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecakeren&layout-compact&langs_count-16&theme=holi">
 </div>
 
